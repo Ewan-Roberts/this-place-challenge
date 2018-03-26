@@ -10,9 +10,9 @@ in terminal "npm install"
 
 there is only one library "request" 
 
-once the libabry installed
+once the libabry is installed
 
-node main
+node main.js
 
 Sean Connery was the best bond.
 
