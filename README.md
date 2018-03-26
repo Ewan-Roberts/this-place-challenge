@@ -10,7 +10,7 @@ in terminal "npm install"
 
 there is only one library "request" 
 
-once the libabry is installed
+once the library is installed
 
 node main.js
 
